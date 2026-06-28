@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-﻿Console.WriteLine("Hello, World!");
-=======
 ﻿using System;
 
 class Program
